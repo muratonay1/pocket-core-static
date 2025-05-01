@@ -3,7 +3,7 @@ import chalk from 'chalk';
 import path from 'path';
 import PocketUtility from './PocketUtility.js';
 import Pocket from './Pocket.js';
-
+//test commit
 /**
  * Log fonksiyonuna log çağrısını yapan dosyanın adını ekler
  */
